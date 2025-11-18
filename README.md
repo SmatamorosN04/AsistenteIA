@@ -1,2 +1,2 @@
 # AsistenteIA
-Mi propioa genteIA
+Mi propio agenteIA
