@@ -1,0 +1,2 @@
+# AsistenteIA
+Mi propioa genteIA
