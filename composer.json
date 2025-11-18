@@ -1,0 +1,14 @@
+{
+    "name": "asistente/ia",
+    "description": "Asistente con IA",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Comandos\\": "src/Comandos/"
+        }
+    }
+}
